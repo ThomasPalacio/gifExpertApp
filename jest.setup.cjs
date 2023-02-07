@@ -1,3 +1,3 @@
 // En caso de necesitar la implementación del FetchAPI
-import 'whatwg-fetch'; 
+module.exports = require("whatwg-fetch"); 
 // <-- yarn add whatwg-fetch
